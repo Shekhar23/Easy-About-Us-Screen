@@ -1,0 +1,3 @@
+include ':easy_about_us_screen'
+include ':app'
+rootProject.name = "AboutUS"
